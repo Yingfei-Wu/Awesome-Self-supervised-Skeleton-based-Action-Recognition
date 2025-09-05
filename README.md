@@ -1,5 +1,7 @@
 # Awesome-Self-supervised-Skeleton-based-Action-Recognition
-Following the updates from [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition?tab=readme-ov-file), organize and summarize the current performance of Awesome-Self-supervised-Skeleton-based-Action-Recognition.(✅ indicates the presence of code, ❌ indicates no code available temporarily and 🚧 indicates an empty code repository. )
+Following the updates from [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition?tab=readme-ov-file), organize and summarize the current performance of Awesome-Self-supervised-Skeleton-based-Action-Recognition.
+
+(✅ indicates the presence of code, ❌ indicates no code available temporarily and 🚧 indicates an empty code repository. )
 
 
 

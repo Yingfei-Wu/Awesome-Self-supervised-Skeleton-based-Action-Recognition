@@ -28,6 +28,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 🚧[STJD TBOIM'2025](https://ieeexplore.ieee.org/document/10981864)[[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)]
 
 ✅[MS-CLR arxiv'2025](https://arxiv.org/abs/2508.14889)[[code](https://github.com/3Dwe-ai/ms-clr)]
+❌[GFP arxiv'2025](https://arxiv.org/abs/2509.03609)
 
 **2024
 
@@ -110,6 +111,7 @@ This section presents the current accuracy and other information related to the 
 |STJD-CL          |TBOIM'2025          |     -     | 82.3 | 87.9 | 70.5 | 72.8 | 51.5 |
 |STJD-MP          |TBOIM'2025          |     -     | 85.4 | 90.2 | 79.1 | 80.4 |   -  |
 |MS-CLR           |arxiv'2025          |     -     | 86.6 | 93.2 | 74.3 | 73.8 |   -  |
+|GFP              |arxiv'2025          |     -     | 85.9 | 92.0 | 79.1 | 80.3 | 56.2 |
 |MacDif           |ECCV'2024           |     -     | 86.4 | 91.0 | 79.4 | 80.2 |   -  |
 |IGM              |ECCV'2024           |     -     | 86.2 | 91.2 | 80.0 | 81.4 |   -  |
 |S-JEPA           |ECCV'2024           |     -     | 85.3 | 89.8 | 79.6 | 79.9 | 53.5 |

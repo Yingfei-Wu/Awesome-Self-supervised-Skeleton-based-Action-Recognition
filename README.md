@@ -9,15 +9,15 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ❌[Heterogeneous CVPR'2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Heterogeneous_Skeleton-Based_Action_Representation_Learning_CVPR_2025_paper.pdf)
 
-✅[USDRL AAAI'2025](https://ojs.aaai.org/index.php/AAAI/article/view/32899)] [[code](https://github.com/wengwanjiang/USDRL)]
+✅[USDRL AAAI'2025](https://ojs.aaai.org/index.php/AAAI/article/view/32899) [[code](https://github.com/wengwanjiang/USDRL)]
 
 ❌[Rethinking AAAI'2025](https://ojs.aaai.org/index.php/AAAI/article/view/32324)
 
 ❌[PASTD ICASSP'2025](https://ieeexplore.ieee.org/abstract/document/10890079)
 
-🚧[MaskSem IROS'2025](https://arxiv.org/abs/2508.12948)[code](https://github.com/JayEason66/MaskSem)
+🚧[MaskSem IROS'2025](https://arxiv.org/abs/2508.12948)[[code](https://github.com/JayEason66/MaskSem)]
 
-✅[USDRL+ TPAMI'2025](https://ieeexplore.ieee.org/abstract/document/11130651)[code](https://github.com/wengwanjiang/FoundSkelModel)
+✅[USDRL+ TPAMI'2025](https://ieeexplore.ieee.org/abstract/document/11130651)[[code](https://github.com/wengwanjiang/FoundSkelModel)]
 
 ❌[ActCLR+ TPAMI'2025](https://ieeexplore.ieee.org/abstract/document/11123705)
 
@@ -25,23 +25,23 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ❌[U-FEFP TCSVT'2025](https://ieeexplore.ieee.org/abstract/document/10879058)
 
-🚧[STJD TBOIM'2025](https://ieeexplore.ieee.org/document/10981864)[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)
+🚧[STJD TBOIM'2025](https://ieeexplore.ieee.org/document/10981864)[[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)]
 
-✅[MS-CLR arxiv'2025](https://arxiv.org/abs/2508.14889)[code](https://github.com/3Dwe-ai/ms-clr)
+✅[MS-CLR arxiv'2025](https://arxiv.org/abs/2508.14889)[[code](https://github.com/3Dwe-ai/ms-clr)]
 
 **2024
 
-✅[MacDif ECCV'2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03727.pdf)[code](https://github.com/LehongWu/MacDiff)
+✅[MacDif ECCV'2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03727.pdf)[[code](https://github.com/LehongWu/MacDiff)]
 
-🚧[IGM ECCV'2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03717.pdf)[code](https://github.com/LanglandsLin/IGM)
+🚧[IGM ECCV'2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03717.pdf)[[code](https://github.com/LanglandsLin/IGM)]
 
 ❌[S-JEPA ECCV'2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04755.pdf)
 
-✅[SCD-Net AAAI'2024](https://ojs.aaai.org/index.php/AAAI/article/view/28409)[code](https://github.com/cong-wu/SCD-Net)
+✅[SCD-Net AAAI'2024](https://ojs.aaai.org/index.php/AAAI/article/view/28409)[[code](https://github.com/cong-wu/SCD-Net)]
 
 ❌[MideCLR TIP'2024](https://ieeexplore.ieee.org/abstract/document/10462918)
 
-🚧[C²VL TMM'2024](https://ieeexplore.ieee.org/abstract/document/10812782)[code](https://github.com/cseeyangchen/C2VL?tab=readme-ov-file)
+🚧[C²VL TMM'2024](https://ieeexplore.ieee.org/abstract/document/10812782)[[code](https://github.com/cseeyangchen/C2VL?tab=readme-ov-file)]
 
 ❌[KTCL TMM'2024](https://ieeexplore.ieee.org/abstract/document/10539295)
 
@@ -49,15 +49,15 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ❌[MMFR TCSVT'2024](https://ieeexplore.ieee.org/abstract/document/10562342)
 
-✅[AimCLR++ PR'2024](https://www.sciencedirect.com/science/article/pii/S0031320324000840)[code](https://github.com/Levigty/AimCLR-v2)
+✅[AimCLR++ PR'2024](https://www.sciencedirect.com/science/article/pii/S0031320324000840)[[code](https://github.com/Levigty/AimCLR-v2)]
 
 ❌[RMMD Neurocomputing'2024](https://www.sciencedirect.com/science/article/pii/S0925231224002662)
 
-✅[STARS arxiv'2024](https://arxiv.org/abs/2407.10935)[code](https://github.com/TaatiTeam/STARS)
+✅[STARS arxiv'2024](https://arxiv.org/abs/2407.10935)[[code](https://github.com/TaatiTeam/STARS)]
 
-✅[HA-CM arxiv'2024](https://arxiv.org/abs/2409.17951)[code](https://github.com/YinxPeng/HA-CM-main)
+✅[HA-CM arxiv'2024](https://arxiv.org/abs/2409.17951)[[code](https://github.com/YinxPeng/HA-CM-main)]
 
-🚧[Skeleton2vec arxiv'2024](https://arxiv.org/abs/2401.00921)[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)
+🚧[Skeleton2vec arxiv'2024](https://arxiv.org/abs/2401.00921)[[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)]
 
 
 

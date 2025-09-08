@@ -28,6 +28,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 🚧[STJD TBOIM'2025](https://ieeexplore.ieee.org/document/10981864)[[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)]
 
 ✅[MS-CLR arxiv'2025](https://arxiv.org/abs/2508.14889)[[code](https://github.com/3Dwe-ai/ms-clr)]
+
 ❌[GFP arxiv'2025](https://arxiv.org/abs/2509.03609)
 
 **2024

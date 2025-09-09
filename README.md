@@ -29,7 +29,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ✅[MS-CLR arxiv'2025](https://arxiv.org/abs/2508.14889)[[code](https://github.com/3Dwe-ai/ms-clr)]
 
-❌[GFP arxiv'2025](https://arxiv.org/abs/2509.03609)
+❌[GFP ICCV'2025](https://arxiv.org/abs/2509.03609)
 
 **2024
 

@@ -4,11 +4,14 @@ To do list
 3. Check whether the arXiv preprint has been accepted for publication in a journal or conference.
 
 
+25.09.12 √
+
 25.09.11 √
 
 25.09.10 √
 
 25.09.09 √
+
 
 
 

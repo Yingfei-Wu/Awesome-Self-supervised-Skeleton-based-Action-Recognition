@@ -3,6 +3,8 @@ To do list
 2. Check whether the previously empty code block now contains any code.
 3. Check whether the arXiv preprint has been accepted for publication in a journal or conference.
 
+25.09.22 √
+
 25.09.17 √
 
 25.09.12 √
@@ -12,6 +14,7 @@ To do list
 25.09.10 √
 
 25.09.09 √
+
 
 
 
